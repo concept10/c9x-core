@@ -1,0 +1,11 @@
+{
+  "name": "c9x",
+  "version": "1.0.0",
+  "description": "c9x runtime server d",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tracey",
+  "license": "MIT"
+}
