@@ -1,0 +1,19 @@
+{
+  "name": "c9x-core",
+  "version": "0.0.1",
+  "description": "c9x-core",
+  "main": "c9x.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concept10/c9x-core.git"
+  },
+  "author": "Tracey Ledbetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concept10/c9x-core/issues"
+  },
+  "homepage": "https://github.com/concept10/c9x-core#readme"
+}
