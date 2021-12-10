@@ -51,7 +51,7 @@ Coding Style.
    For example:
 
 ```vala
-   private class Boxes.Hello {
+   private class bio.Hello {
    ...
    };
 ```
