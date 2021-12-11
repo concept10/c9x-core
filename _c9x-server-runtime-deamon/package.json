@@ -1,10 +1,10 @@
 {
   "name": "c9x",
   "version": "1.0.0",
-  "description": "c9x runtime server d",
+  "description": "c9x runtime server daemon",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "No test currently specified."
   },
   "author": "Tracey",
   "license": "MIT"

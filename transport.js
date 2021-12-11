@@ -1,2 +1,2 @@
 // transport.js
-// define configurable/modular transport
+// define configurable / modular transport
