@@ -17,9 +17,7 @@
  */
 
 #include "config.h"
-// #include "gcal-application.h"
-
-#include <glib/gi18n.h>
+//#include <glib/gi18n.h>
 
 
 gint main (gint argc, gchar **argv)
